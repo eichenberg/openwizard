@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao OpenWizard
 
-You can use the [editor on GitHub](https://github.com/eichenberg/openwizard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Assistente ou Wizard é um padrão de projeto de software amplamente utilizado em interface gráfica do usuário para prover um meio simples de realizar tarefas complexas em sistemas computacionais, através de um esquema passo-a-passo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Objetivo
+O objetivo principal do OpenWizard é ajudar a dividir grandes passos em processos computacionais em pequenas etapas guiadas, promovendo as validações necessárias entre cada etapa e proporcionando ao usuário ajuda para interar com cada tela provida pelo sistema.
 
-### Markdown
+## Diferenciais
+Uma das grandes qualidades do OpenWizard é sua API REST, pronta para atender a qualquer sistema de software que se comunique utilizando a tecnologia REST.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eichenberg/openwizard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Licença Apache 2.0
